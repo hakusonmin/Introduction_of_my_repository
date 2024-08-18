@@ -13,7 +13,7 @@
 
 ・「[Drupal_Custom_Block_Plugin_Project](https://github.com/hakusonmin/Drupal_Custom_Block_Plugin_Project)」のリポジトリはDrupal10において公開済みの基本ページの数を取得することができるカスタムブロックプラグインを作成したリポジトリです。(8月13日作成)
 
-・「[Drupal_Custom_Theme](https://github.com/hakusonmin/Drupal_Custom_Theme)」はDrupal10でカスタムテーマを作成したものである。(現在進行中)(8月10作成)
+・「[Drupal_Custom_Theme](https://github.com/hakusonmin/Drupal_Custom_Theme)」はDrupal10でカスタムテーマを作成したものです。(現在進行中)(8月10作成)
 
 ・「[SiteBuilder_Project](https://github.com/hakusonmin/SiteBuilder_Project)」のリポジトリはAnnaiさんのDrupalスタートブックを元に作ったサイトに手を加えた内容のリポジトリです。(7月20日作成)
 
